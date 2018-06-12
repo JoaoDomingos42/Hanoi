@@ -1,0 +1,4 @@
+Torres Hanoi
+
+1-Mudar a directoria do Matlab para a directoria onde estão os ficheiros.m
+2-Correr o programa
